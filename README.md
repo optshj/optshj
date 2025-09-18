@@ -54,6 +54,8 @@
   <br>
   <img src="https://img.shields.io/badge/google_search_console-458CF5?style=for-the-badge&logo=googlesearchconsole&logoColor=white">
   <img src="https://img.shields.io/badge/google_analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white">
+  <br/>
+  <img src="https://img.shields.io/badge/lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white">
   </div>
 </div>
 <br/>
