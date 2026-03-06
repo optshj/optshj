@@ -1,4 +1,5 @@
-https://refresh.cv/optshj
+[![Resume Card](https://refresh.cv/r/optshj/middle-card)](https://refresh.cv/optshj)
+
 <div align="center">
   <p>
     직관적이고 사용성이 좋은 UIUX를 구현하기 위해 공부하고있습니다.
