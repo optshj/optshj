@@ -1,4 +1,4 @@
-[![Resume Card](https://refresh.cv/r/optshj/middle-card)](https://refresh.cv/optshj)
+<!-- [![Resume Card](https://refresh.cv/r/optshj/middle-card)](https://refresh.cv/optshj) -->
 
 <div align="center">
   <p>
