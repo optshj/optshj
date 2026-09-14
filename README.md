@@ -1,7 +1,7 @@
 <br/>
 <div align="center">
 
-### 1초도 못 참는, UX 중심 프론트엔드 개발자입니다
+### 사용자가 고민하거나 기다리지 않도록 만드는 개발자 이성빈입니다
 <br/>
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
